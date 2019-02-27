@@ -1776,23 +1776,26 @@ body {
 .cid-rjj3wL3Op2 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rjj3IIPBDM {
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-rjjl0HZeWh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/smoothie-hero-image-1920x1079.jpg");
 }
 .cid-rjj46cwDKp {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rjj46cwDKp .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #a287ca;
+  color: #a287ca;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rjj46cwDKp .section-text {
   padding: 2rem 0;
+  color: #a287ca;
 }
 .cid-rjj46cwDKp .inner-container {
   margin: 0 auto;
@@ -2090,19 +2093,20 @@ body {
   color: #232323;
 }
 .cid-rjj4nv38gT {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rjj4nv38gT .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #ff0099;
+  color: #ff0099;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rjj4nv38gT .section-text {
   padding: 2rem 0;
+  color: #ff0099;
 }
 .cid-rjj4nv38gT .inner-container {
   margin: 0 auto;
@@ -2144,7 +2148,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rjj4BhWkBW .mbr-section-subtitle {
-  color: #767676;
+  color: #a287ca;
 }
 .cid-rjj4BhWkBW .formoid {
   margin: auto;
@@ -2237,34 +2241,11 @@ body {
     margin: 0 0.5rem;
   }
 }
-.cid-rjj4IXuwuu {
+.cid-rjj4BhWkBW H2 {
+  color: #a287ca;
+}
+.cid-rjjpFzZzxn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rjj4IXuwuu P {
-  color: #767676;
-}
-.cid-rjj4MfZc1q {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rjj4MfZc1q .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rjj4MfZc1q .section-text {
-  padding: 2rem 0;
-}
-.cid-rjj4MfZc1q .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rjj4MfZc1q .inner-container {
-    width: 100% !important;
-  }
+  background-image: url("../../../assets/images/footer-ibat-college-996x566.jpg");
 }
